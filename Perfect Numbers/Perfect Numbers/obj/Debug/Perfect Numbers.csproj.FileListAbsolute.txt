@@ -1,8 +1,0 @@
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.exe.config
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.exe
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\bin\Debug\Perfect Numbers.pdb
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.AssemblyReference.cache
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.SuggestedBindingRedirects.cache
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.csproj.CoreCompileInputs.cache
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.exe
-D:\O M A R\VS Projects\Perfect Numbers\Perfect Numbers\obj\Debug\Perfect Numbers.pdb
